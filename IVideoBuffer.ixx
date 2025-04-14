@@ -1,5 +1,5 @@
 export module IVideoBuffer;
-
+// Jérémy Côté
 // 1 bit par pixel video buffer
 export class IVideoBuffer
 {
